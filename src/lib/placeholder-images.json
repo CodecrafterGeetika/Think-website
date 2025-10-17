@@ -1,3 +1,88 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-animated",
+      "description": "Abstract animation of data and graphs",
+      "imageUrl": "https://picsum.photos/seed/hero/1200/800",
+      "imageHint": "data abstract"
+    },
+    {
+      "id": "user-avatar",
+      "description": "User profile picture",
+      "imageUrl": "https://picsum.photos/seed/user/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "course-quant",
+      "description": "Thumbnail for Quantitative Aptitude course",
+      "imageUrl": "https://picsum.photos/seed/quant/400/225",
+      "imageHint": "math numbers"
+    },
+    {
+      "id": "course-varc",
+      "description": "Thumbnail for Verbal Ability & Reading Comprehension course",
+      "imageUrl": "https://picsum.photos/seed/varc/400/225",
+      "imageHint": "books library"
+    },
+    {
+      "id": "course-dilr",
+      "description": "Thumbnail for Data Interpretation & Logical Reasoning course",
+      "imageUrl": "https://picsum.photos/seed/dilr/400/225",
+      "imageHint": "charts puzzle"
+    },
+    {
+      "id": "course-algebra",
+      "description": "Thumbnail for Algebra course",
+      "imageUrl": "https://picsum.photos/seed/algebra/400/225",
+      "imageHint": "equations chalkboard"
+    },
+    {
+      "id": "course-geometry",
+      "description": "Thumbnail for Geometry course",
+      "imageUrl": "https://picsum.photos/seed/geometry/400/225",
+      "imageHint": "shapes compass"
+    },
+    {
+      "id": "course-arithmetic",
+      "description": "Thumbnail for Arithmetic course",
+      "imageUrl": "https://picsum.photos/seed/arithmetic/400/225",
+      "imageHint": "calculator numbers"
+    },
+    {
+      "id": "course-rc",
+      "description": "Thumbnail for Reading Comprehension course",
+      "imageUrl": "https://picsum.photos/seed/rc/400/225",
+      "imageHint": "reading glasses"
+    },
+    {
+      "id": "course-para",
+      "description": "Thumbnail for Para Jumbles course",
+      "imageUrl": "https://picsum.photos/seed/para/400/225",
+      "imageHint": "jigsaw puzzle"
+    },
+    {
+      "id": "course-grammar",
+      "description": "Thumbnail for Grammar course",
+      "imageUrl": "https://picsum.photos/seed/grammar/400/225",
+      "imageHint": "writing pen"
+    },
+    {
+      "id": "course-di-sets",
+      "description": "Thumbnail for DI Sets course",
+      "imageUrl": "https://picsum.photos/seed/disets/400/225",
+      "imageHint": "bar chart"
+    },
+    {
+      "id": "course-lr-puzzles",
+      "description": "Thumbnail for LR Puzzles course",
+      "imageUrl": "https://picsum.photos/seed/lrpuzzles/400/225",
+      "imageHint": "maze thinking"
+    },
+    {
+      "id": "course-critical-reasoning",
+      "description": "Thumbnail for Critical Reasoning course",
+      "imageUrl": "https://picsum.photos/seed/cr/400/225",
+      "imageHint": "lightbulb idea"
+    }
+  ]
 }
