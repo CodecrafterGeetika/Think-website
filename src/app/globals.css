@@ -8,31 +8,31 @@ body {
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 215 28% 17%;
-    --card: 0 0% 100%;
-    --card-foreground: 215 28% 17%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 215 28% 17%;
-    --primary: 214 53% 24%;
+    --background: 220 13% 10%;
+    --foreground: 0 0% 98%;
+    --card: 220 13% 10%;
+    --card-foreground: 0 0% 98%;
+    --popover: 220 13% 10%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 348 83% 58%;
     --primary-foreground: 0 0% 98%;
-    --secondary: 210 20% 98%;
-    --secondary-foreground: 215 28% 17%;
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215 14% 47%;
-    --accent: 16 100% 60%;
+    --secondary: 217 33% 17%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 348 83% 58%;
     --accent-foreground: 0 0% 100%;
-    --destructive: 0 84.2% 60.2%;
+    --destructive: 0 63% 31%;
     --destructive-foreground: 0 0% 98%;
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 214 53% 24%;
+    --border: 217 33% 17%;
+    --input: 217 33% 17%;
+    --ring: 348 83% 58%;
     --radius: 0.5rem;
 
     /* Custom colors from proposal */
     --success: 151 83% 34%;
     --warning: 38 92% 50%;
-    --error: 0 84.2% 60.2%;
+    --error: 0 63% 31%;
 
     --chart-1: 214 53% 24%;
     --chart-2: 16 100% 60%;
@@ -40,14 +40,14 @@ body {
     --chart-4: 38 92% 50%;
     --chart-5: 215 14% 47%;
 
-    --sidebar-background: 0 0% 100%;
-    --sidebar-foreground: 215 28% 17%;
-    --sidebar-primary: 214 53% 24%;
-    --sidebar-primary-foreground: 0 0% 98%;
-    --sidebar-accent: 210 20% 98%;
-    --sidebar-accent-foreground: 215 28% 17%;
-    --sidebar-border: 214.3 31.8% 91.4%;
-    --sidebar-ring: 214 53% 24%;
+    --sidebar-background: 220 13% 10%;
+    --sidebar-foreground: 0 0% 98%;
+    --sidebar-primary: 0 0% 98%;
+    --sidebar-primary-foreground: 214 53% 24%;
+    --sidebar-accent: 217 33% 17%;
+    --sidebar-accent-foreground: 0 0% 98%;
+    --sidebar-border: 217 33% 17%;
+    --sidebar-ring: 16 100% 60%;
   }
 
   .dark {

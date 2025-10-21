@@ -10,10 +10,12 @@ export default function Home() {
       <LandingHeader />
       <main className="flex-1">
         <HeroSection />
-        <TrustIndicators />
-        <FeaturesSection />
+        {/*
+          <TrustIndicators />
+          <FeaturesSection />
+        */}
       </main>
-      <LandingFooter />
+      {/* <LandingFooter /> */}
     </div>
   );
 }
