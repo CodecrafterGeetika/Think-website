@@ -24,7 +24,7 @@ import {
   SidebarFooter,
 } from '@/components/ui/sidebar';
 import { Button } from '@/components/ui/button';
-import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
+import { Sheet, SheetContent, SheetTitle, SheetTrigger } from '@/components/ui/sheet';
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -101,6 +101,7 @@ export function AppLayout({ children }: { children: React.ReactNode }) {
               </Button>
             </SheetTrigger>
             <SheetContent side="left" className="flex flex-col p-0">
+              <SheetTitle className="sr-only">Mobile Navigation Menu</SheetTitle>
               <div className="flex h-16 items-center border-b px-4">
                 <Link href="/dashboard" className="flex items-center gap-2">
                   <Logo className="size-8 text-primary" />
